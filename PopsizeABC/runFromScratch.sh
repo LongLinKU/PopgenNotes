@@ -31,7 +31,7 @@
 # line 31: 'mac', 10% threshold?
 # line 32: 'mac_ld', 20% threshold?
 # line 89: range for chro, 
-# line 92: 'infile_vcf', each chromosome in vcf bgz format. 
+# line 92: 'infile_vcf', each chromosome in vcf bgz format.  For how to prepare vcf files, see Liam's guide slides: https://docs.google.com/presentation/d/1uFi5R_B2nYghufSsgh6h7IEyvwpCqvZn0sdPcCYZwTE/edit?usp=sharing
 # line 94: ped file
 # line 129: output for 'np.savetxt'
 #	Mkdir result folder if it doesn't exist.

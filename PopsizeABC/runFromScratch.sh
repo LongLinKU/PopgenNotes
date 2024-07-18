@@ -1,5 +1,7 @@
 
 
+######## doesn't support bcf.gz
+
 
 # Popsize ABC Installation
   popsizeBinFolder=/home/users/long/Wildebeest/PopsizeABC/bin/
